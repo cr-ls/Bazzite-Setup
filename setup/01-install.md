@@ -21,6 +21,8 @@ Este apartado es únicamente para la instalación desde cero de Bazzite.
 1. Seguir el instalador gráfico hasta completar la instalación en el disco.
 2. Al iniciar, actualizar las aplicaciones base desde la tienda **Bazaar**.
 3. Configurar periféricos básicos (actualmente uso los AirPods 3 como audio principal).
-4. **Actualizar el sistema completo:** Abrir la terminal y ejecutar: ujust update
+4. **Actualizar el sistema completo:** Abrir la terminal y ejecutar:
+   ```bash
+   ujust update
 **IMPORTANTE** Una vez termine la actualización, REINICIA LA PC.
 
